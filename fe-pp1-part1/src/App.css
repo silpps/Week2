@@ -1,0 +1,37 @@
+h3 {
+  text-align: center;
+}
+
+
+.App-logo {
+  display: block;
+  margin: 0 auto;
+  width: 200px;
+}
+
+.container{
+  display: flex;
+  align-items: center;
+  border-color: black;
+  border-style: solid;
+  border-width: 1px;
+  margin: 10px;
+}
+
+.picture{
+  width: 130px;
+
+}
+
+.text-container{
+  font-family:Arial, Helvetica, sans-serif;
+  font-size: 0.8em;
+}
+
+.randomOne{
+  border-color: black;
+  border-style: solid;
+  border-width: 1px;
+  margin : 10px;
+  font-family: Arial, Helvetica, sans-serif;
+}
